@@ -9,60 +9,144 @@
   "packs": [
       {
         "name": "actors",
-        "label": "My actors",
+        "label": "Actors",
         "path": "packs/actors.db",
       	"module": "My-Shared-Compendia",
         "entity": "Actor"
       },
       {
         "name": "monsters",
-        "label": "My Monsters",
+        "label": "Monsters",
         "path": "packs/monsters.db",
       	"module": "My-Shared-Compendia",
         "entity": "Actor"
       },
       {
+        "name": "vehicles",
+        "label": "Vehicles",
+        "path": "packs/vehicles.db",
+      	"module": "My-Shared-Compendia",
+        "entity": "Actor"
+      },
+      {
+        "name": "own_monsters",
+        "label": "Eigene Monster",
+        "path": "packs/own_monsters.db",
+      	"module": "My-Shared-Compendia",
+        "entity": "Actor"
+      },
+      {
         "name": "items",
-        "label": "My Items",
+        "label": "Items",
         "path": "packs/items.db",
       	"module": "My-Shared-Compendia",
         "entity": "Item"
       },
       {
+        "name": "own_items",
+        "label": "Eigene Items",
+        "path": "packs/own_items.db",
+      	"module": "My-Shared-Compendia",
+        "entity": "Item"
+      },
+      {
         "name": "scenes",
-        "label": "My Scenes",
+        "label": "Scenes",
         "path": "packs/scenes.db",
       	"module": "My-Shared-Compendia",
         "entity": "Scene"
       },
       {
         "name": "JournalEntrys",
-        "label": "My Journal Entrys",
+        "label": "Journal Entrys",
         "path": "packs/journalentry.db",
       	"module": "My-Shared-Compendia",
         "entity": "JournalEntry"
       },
       {
         "name": "macros",
-        "label": "My Macros",
+        "label": "Macros",
         "path": "packs/macro.db",
       	"module": "My-Shared-Compendia",
         "entity": "Macro"
       },
       {
         "name": "rolltable",
-        "label": "My Roll Tables",
+        "label": "Roll Tables",
         "path": "packs/rolltable.db",
       	"module": "My-Shared-Compendia",
         "entity": "RollTable"
       },
       {
         "name": "playlist",
-        "label": "My Playlist",
+        "label": "Playlist",
         "path": "packs/playlist.db",
       	"module": "My-Shared-Compendia",
         "entity": "Playlist"
       }
+      {
+        "name": "backgrounds",
+        "label": "Backgrounds",
+        "path": "packs/backgrounds.db",
+      	"module": "My-Shared-Compendia",
+        "entity": "Item"
+      },
+      {
+        "name": "classes",
+        "label": "Classes",
+        "path": "packs/classes.db",
+      	"module": "My-Shared-Compendia",
+        "entity": "Item"
+      },
+      {
+        "name": "sublasses",
+        "label": "Sublasses",
+        "path": "packs/subclasses.db",
+      	"module": "My-Shared-Compendia",
+        "entity": "Item"
+      },
+      {
+        "name": "class_feats",
+        "label": "Class Features",
+        "path": "packs/class_feats.db",
+      	"module": "My-Shared-Compendia",
+        "entity": "Item"
+      },
+      {
+        "name": "feats",
+        "label": "Features",
+        "path": "packs/feats.db",
+      	"module": "My-Shared-Compendia",
+        "entity": "Item"
+      },
+      {
+        "name": "races",
+        "label": "Races",
+        "path": "packs/races.db",
+      	"module": "My-Shared-Compendia",
+        "entity": "Item"
+      },
+      {
+        "name": "race_trait",
+        "label": "Racial Traits",
+        "path": "packs/race_traits.db",
+      	"module": "My-Shared-Compendia",
+        "entity": "Item"
+      },
+      {
+        "name": "spells",
+        "label": "Spells",
+        "path": "packs/spells.db",
+      	"module": "My-Shared-Compendia",
+        "entity": "Item"
+      },
+      {
+        "name": "override",
+        "label": "Override",
+        "path": "packs/override.db",
+      	"module": "My-Shared-Compendia",
+        "entity": "Item"
+      },
     ],
     
   "download": "https://github.com/SaschOr/My-Shared-Compendia/releases/download/1.0.0/My-Shared-Compendia.zip",
