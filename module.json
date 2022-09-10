@@ -150,7 +150,7 @@
     ],
     
   "download": "https://github.com/SaschOr/My-Shared-Compendia/releases/download/1.0.0/My-Shared-Compendia.zip",
-  "manifest": "https://github.com/SaschOr/My-Shared-Compendia/releases/download/1.0.0/module.json",
+  "manifest": "https://github.com/SaschOr/My-Shared-Compendia/blob/main/module.json",
 
   "url": "https://github.com/SaschOr/My-Shared-Compendia"
 }
